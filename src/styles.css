@@ -1,0 +1,15 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.todo-Item{
+  height: 50px;
+  width: 500px;
+display: flex;
+justify-content: center;
+border-bottom: 1px solid silver;
+}
+.todo-Item p{
+  margin: 0px;
+  padding: 2px;
+}
